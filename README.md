@@ -1,5 +1,5 @@
 - # 👋 Hi, I’m Stella!
-- 👀 I’m interested in _fashion_!)
+- 👀 I’m interested in ***fashion***!)
 - 🌱 I’m currently learning pyhton..)
 - 💞️ I’m looking to collaborate on AI!
 - 📫 My twitter: @stjfashion
